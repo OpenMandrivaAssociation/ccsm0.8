@@ -19,7 +19,7 @@ Release:	%{rel}
 Summary:	Compiz Config Settings Manager
 Group:		System/X11
 License:	GPL
-URL:		http://www.compiz-fusion.org/
+URL:		https://www.compiz-fusion.org/
 Source:		http://cgit.compiz.org/compiz/compizconfig/ccsm/snapshot/%{srcname}
 BuildRequires:	compiz0.8-devel
 BuildRequires:	python-compizconfig0.8
